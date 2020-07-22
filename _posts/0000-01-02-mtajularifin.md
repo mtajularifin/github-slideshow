@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Mane katanya mau belajar githubbbb
 Use the left arrow to go back!
